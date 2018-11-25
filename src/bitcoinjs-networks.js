@@ -328,8 +328,8 @@ networks.btx = {
   dustThreshold: 1000,
 };
 
-networks.btcz = {
-  messagePrefix: '\x19BitcoinZ Signed Message:\n',
+networks.bzc = {
+  messagePrefix: '\x19Bitzec Signed Message:\n',
   bip32: {
     public: 0x0488b21e,
     private: 0x0488ade4,

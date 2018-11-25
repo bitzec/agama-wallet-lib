@@ -471,15 +471,15 @@ let electrumServers = {
       'electrum2.cipig.net:10057'
     ],
   },
-  btcz: {
-    address: 'electrum1.cipig.net',
-    port: 10056,
+  bzc: {
+    address: '194.87.145.250',
+    port: 50012,
     proto: 'tcp',
     txfee: 10000,
-    abbr: 'BTCZ',
+    abbr: 'BZC',
     serverList: [
-      'electrum1.cipig.net:10056',
-      'electrum2.cipig.net:10056'
+      '194.87.145.250:50012',
+      '194.87.145.250:50012'
     ],
   },
   grs: {
