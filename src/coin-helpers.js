@@ -129,7 +129,7 @@ const explorerList = {
   SNG: 'https://explorer.snowgem.org/',
   ZMY: 'https://myriadexplorer.com',
   BTX: 'http://explorer.bitcore.cc',
-  BTCZ: 'https://explorer.bitcoinz.site',
+  BZC: 'http://35.237.153.178:3001/insight',
   HODLC: 'http://www.fuzzbawls.pw/explore/HOdlcoin/tx.php?tx=',
   SIB: 'https://chain.sibcoin.net/en/tx/',
   ZEC: 'https://explorer.zcha.in/transactions/',

@@ -364,8 +364,8 @@ var networks = (_networks = {
     wif: 0x80,
     dustThreshold: 1000
   },
-  btcz: {
-    messagePrefix: '\x19BitcoinZ Signed Message:\n',
+  bzc: {
+    messagePrefix: '\x19Bitzec Signed Message:\n',
     bip44: 177,
     bip32: {
       public: 0x0488b21e,

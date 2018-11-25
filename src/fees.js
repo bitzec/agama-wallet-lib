@@ -69,7 +69,7 @@ const fees = {
   zcl: 1000,
   hodlc: 5000,
   btx: 50000,
-  btcz: 10000,
+  bzc: 10000,
   grs: 50000,
   qtum: 400000,
   btcp: 10000,

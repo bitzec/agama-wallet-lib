@@ -172,7 +172,7 @@ const bip44Const = {
   'ONX': 174,
   'RVN': 175,
   'GBX': 176,
-  'BTCZ': 177,
+  'BZC': 177,
   'POA': 178,
   'NYC': 179,
   'MXT': 180,

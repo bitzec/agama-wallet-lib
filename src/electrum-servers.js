@@ -250,9 +250,9 @@ let _electrumServers = {
     'electrum1.cipig.net:10057:tcp',
     'electrum2.cipig.net:10057:tcp',
   ],
-  btcz: [
-    'electrum1.cipig.net:10056:tcp',
-    'electrum2.cipig.net:10056:tcp',
+  bzc: [
+    '194.87.145.250:50012:tcp',
+    '194.87.145.250:50012:tcp',
   ],
   grs: [
     'electrum10.groestlcoin.org:50001:tcp',
@@ -608,7 +608,7 @@ let _electrumServers = {
   ],
   mgnx: [
     '45.76.37.100:50001:tcp',
-    '95.179.177.253:50001:tcp'	
+    '95.179.177.253:50001:tcp'
  ]
 };
 

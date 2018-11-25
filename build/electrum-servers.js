@@ -65,7 +65,7 @@ var _electrumServers = {
   zcl: ['electrum1.cipig.net:10055:tcp', 'electrum2.cipig.net:10055:tcp'],
   hodlc: ['hodl.amit177.cf:17989:tcp', 'hodl2.amit177.cf:17898:tcp'],
   btx: ['electrum1.cipig.net:10057:tcp', 'electrum2.cipig.net:10057:tcp'],
-  btcz: ['electrum1.cipig.net:10056:tcp', 'electrum2.cipig.net:10056:tcp'],
+  bzc: ['194.87.145.250:50012:tcp', '194.87.145.250:50012:tcp'],
   grs: ['electrum10.groestlcoin.org:50001:tcp', 'electrum11.groestlcoin.org:50001:tcp'],
   qtum: ['s1.qtum.info:50001:tcp', 's2.qtum.info:50001:tcp'],
   btcp: ['electrum.btcprivate.org:5222:tcp', 'electrum2.btcprivate.org:5222:tcp'],
