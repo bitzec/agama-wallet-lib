@@ -8,7 +8,7 @@
     "komodo",
     "supernet"
   ],
-  "homepage": "https://github.com/pbca26/agama-wallet-lib",
+  "homepage": "https://github.com/bitzec/agama-wallet-lib",
   "bugs": {
     "url": "https://github.com/pbca26/agama-wallet-lib/issues"
   },
@@ -20,7 +20,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pbca26/agama-wallet-lib.git"
+    "url": "https://github.com/bitzec/agama-wallet-lib.git"
   },
   "scripts": {
   },
